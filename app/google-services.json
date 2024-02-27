@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811542466746",
+    "project_id": "signup-firebase-bec2e",
+    "storage_bucket": "signup-firebase-bec2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811542466746:android:b2f5f6006b57dfd88e3283",
+        "android_client_info": {
+          "package_name": "com.example.signupfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8dUBGltqr_eyXrhTFpi50p-kZK-QlDgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
